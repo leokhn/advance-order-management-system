@@ -1,0 +1,34 @@
+{
+  "name": "joygroup",
+  "version": "1.0.0",
+  "description": "joy group order management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ko Naing",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "^4.19.2",
+    "express-jwt": "^8.4.1",
+    "express-session": "^1.18.0",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.9.25",
+    "morgan": "~1.9.1",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^8.0.0",
+    "path": "^0.12.7",
+    "renderjson": "^1.4.0",
+    "rootpath": "^0.1.2",
+    "socket.io": "^4.7.5"
+  }
+}

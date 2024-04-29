@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "662df55dd3c395af74dbaf1e"
+  },
+  "username": "testindex",
+  "password": "$2a$10$Dprq4H02Axnc8ErTeuzEaevDqVDOcmr06B2R6xMejTI6I9NbEomHO",
+  "role": "admin",
+  "date": {
+    "$date": "2024-04-28T07:06:05.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662df63bd3c395af74dbaf21"
+  },
+  "username": "support 1",
+  "password": "$2a$10$rrSvU/OjG8yGyqhJiOAog.2fDtkkhnjpyqCLwg3ay.yOnd.UJAp8O",
+  "role": "support",
+  "date": {
+    "$date": "2024-04-28T07:09:47.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662df644d3c395af74dbaf24"
+  },
+  "username": "customer 1",
+  "password": "$2a$10$E.snPuXng1jJwvl3.Do/iuAH60eEpa21YaDKuOdxT04J/RxYaQ622",
+  "role": "customer",
+  "date": {
+    "$date": "2024-04-28T07:09:56.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f239e60a78552ac833e7e"
+  },
+  "username": "customer 2",
+  "password": "$2a$10$7/ialGaRsrR5/UJjMrelleQcZbUllqpKUK8NP.ZI1nvEs5xoJeeqW",
+  "role": "customer",
+  "date": {
+    "$date": "2024-04-29T04:35:42.766Z"
+  },
+  "__v": 0
+}]

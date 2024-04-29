@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "662ce9114ba25d8ef02ae16c"
+  },
+  "type": "europe food",
+  "name": "bread",
+  "price": 100,
+  "date": {
+    "$date": "2024-04-27T12:01:21.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662da3cfeebaf891ac5692ed"
+  },
+  "type": "noodle",
+  "name": "Ma Ma",
+  "price": 10,
+  "date": {
+    "$date": "2024-04-28T01:18:07.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662da3e3eebaf891ac5692f1"
+  },
+  "type": "Rice",
+  "name": "Bwar Bwar May",
+  "price": 10,
+  "date": {
+    "$date": "2024-04-28T01:18:27.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f241660a78552ac833e91"
+  },
+  "type": "Drink",
+  "name": "Pepsi",
+  "price": 10,
+  "date": {
+    "$date": "2024-04-29T04:37:42.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f262b2e5db67838fe9546"
+  },
+  "type": "Drink",
+  "name": "Cola",
+  "price": 10,
+  "date": {
+    "$date": "2024-04-29T04:46:35.626Z"
+  },
+  "__v": 0
+}]
